@@ -1,0 +1,12 @@
+Note :
+
+Le développemnt de mon projet comprend des langages en :
+HTML, CSS, JavaScript.
+
+Les fonctionnalités du slider fonctionnent parfaitement.
+Le deuxième slider blog a un petit bug.
+J'ai pas réussi à faire fonctionner mon tooltip.
+Ce dernier apparait bien dans mon code. On pourra analyser
+mon code javascript.
+
+Le site est responsive design.
